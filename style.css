@@ -102,17 +102,17 @@ background-size: cover;
 
 
 .cube-1 .left {
-    background: url(C:\Users\andrew\Desktop\cube\img\IMG_1845.jpg) no-repeat 50% 0;
+    background: url(https://raw.githubusercontent.com/amv-coding/Grandpa-Cube/main/IMG_1845.jpg) no-repeat 50% 0;
     background-size: cover;
 }
 
 .cube-2 .left {
-    background: url(C:\Users\andrew\Desktop\cube\img\IMG_1845.jpg) no-repeat 50% -7vw;
+    background: url(https://raw.githubusercontent.com/amv-coding/Grandpa-Cube/main/IMG_1845.jpg) no-repeat 50% -7vw;
     background-size: cover;
 }
 
 .cube-3 .left {
-    background: url(C:\Users\andrew\Desktop\cube\img\IMG_1845.jpg) no-repeat 50% -14vw;
+    background: url(https://raw.githubusercontent.com/amv-coding/Grandpa-Cube/main/IMG_1845.jpg) no-repeat 50% -14vw;
     background-size: cover;
 }
 
@@ -122,17 +122,17 @@ background-size: cover;
 
 
 .cube-1 .right {
-    background: url() no-repeat 50% 0;
+    background: url(https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/31981_124896427547859_397156_n.jpg?_nc_cat=108&ccb=2&_nc_sid=cdbe9c&_nc_ohc=04eg9lCkCE0AX-e5rCA&_nc_ht=scontent-iad3-1.xx&oh=c5cd122a6899edb667f33dbba2235904&oe=600E1A8D) no-repeat 50% 0;
     background-size: cover;
 }
 
 .cube-2 .right {
-    background: url() no-repeat 50% -7vw;
+    background: url(https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/31981_124896427547859_397156_n.jpg?_nc_cat=108&ccb=2&_nc_sid=cdbe9c&_nc_ohc=04eg9lCkCE0AX-e5rCA&_nc_ht=scontent-iad3-1.xx&oh=c5cd122a6899edb667f33dbba2235904&oe=600E1A8D) no-repeat 50% -7vw;
     background-size: cover;
 }
 
 .cube-3 .right {
-    background: url() no-repeat 50% -14vw;
+    background: url(https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/31981_124896427547859_397156_n.jpg?_nc_cat=108&ccb=2&_nc_sid=cdbe9c&_nc_ohc=04eg9lCkCE0AX-e5rCA&_nc_ht=scontent-iad3-1.xx&oh=c5cd122a6899edb667f33dbba2235904&oe=600E1A8D) no-repeat 50% -14vw;
     background-size: cover;
 }
 
