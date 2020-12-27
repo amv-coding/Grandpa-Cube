@@ -6,8 +6,8 @@
 .container {
 height: 100vh;
 width: 100%;
-background: url(https://raw.githubusercontent.com/amv-coding/Tribute-to-Grandpas-Cube/main/background%20for%20grandpa%20cube.png) no-repeat;
-background-size: cover;
+background: url('https://raw.githubusercontent.com/amv-coding/Tribute-to-Grandpas-Cube/main/background%20for%20grandpa%20cube.png');
+background-size: 100% 100%;
 }
 
 .viewport {
